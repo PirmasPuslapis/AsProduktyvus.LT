@@ -23,7 +23,7 @@
                   AsProduktyvus.LT
                 </h1>
                 <p class="mt-4 text-lg text-gray-300">
-                  As Produktuvus - patarimai, kaip dirbti is namu Prodyktyviai!
+                  Aš produktyvus – patarimai, kaip dirbti iš namų prodyuktyviai!
                 </p>
               </div>
             </div>
@@ -54,10 +54,9 @@
         <div class="container mx-auto px-4">
           <div class="flex flex-wrap justify-center text-center mb-24">
             <div class="w-full lg:w-6/12 px-4">
-              <h2 class="text-4xl font-semibold">Darbas is namu</h2>
+              <h2 class="text-4xl font-semibold">Darbas iš namų</h2>
               <p class="text-lg leading-relaxed m-4 text-gray-600">
-                Darbas is namu gali atrodyti kaip siekiamybe. Taciau efektyviai dirbti is namu
-                reoikia moketi. Tai nera lengva, taciau musu keli patarimai jums gali padeti:
+                Darbas iš namu gali atrodyti tarsi siekiamybė. Tačiau norint tai daryti efektyviai, pravartu žinoti keletą patarimų.
               </p>
             </div>
           </div>
@@ -66,12 +65,12 @@
               <div class="px-6">
                 <div class="pt-6 text-center">
                   <a href="/practices">
-                  <h5 class="text-xl font-bold"> Darbo Rutina</h5>
+                  <h5 class="text-xl font-bold"> Darbo rutina</h5>
                   </a>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
-                    Kaip organizuotis aplinka,
+                    Kaip sau paruošti darbo vietą,
                     </br>
-                    tvarkarasti, kontroliuoti save
+                    paskirti tikslus ir nustatyti darbo valandas
                   </p>
 
                 </div>
@@ -82,9 +81,9 @@
                   <h5 class="text-xl font-bold">Darbas su grupe</h5>
                   </a>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
-                    Kaip organizuoti susitikimus, efektyviai
+                    Kaip organizuoti susirinkimus internetu
                     </br>
-                   dirbti komandoje per atstuma.
+                   ir dirbti komandoje.
                   </p>
                 </div>
               </div>

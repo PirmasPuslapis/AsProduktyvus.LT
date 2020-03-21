@@ -20,9 +20,9 @@
             <div class="w-full lg:w-6/10 px-4 ml-auto mr-auto text-center">
               <div class="pr-12">
                 <p class="mt-4 text-lg text-gray-300">
-                  Darba su kitais zmonemis grupeje per atstuma gali buti isukis.
-                  Dazniausiai nes nesame prate prie tokio bendravimo nuolatos.
-                  Musu patarimai kaip efektyviai dirbti su grupe, komanda per atstuma!
+                  Darbas komandoje per atstumą gali tapti iššūkiu net ir savo
+                  srities profesionalams. Pateikiame keletą patarimų, kaip tokį
+                  darbą paversti efektyviu.
                 </p>
               </div>
             </div>
@@ -58,26 +58,26 @@
               <div
                 class="text-gray-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-gray-100"
               >
-                <i class="fas fa-user-friends text-xl"></i>
+                <i class="fas fa-video text-xl"></i>
               </div>
               <h3 class="text-3xl mb-2 font-semibold leading-normal">
-                Irankiai - Vaizdo Pokalbiai
+                Įrankiai vaizdo pokalbiams:
               </h3>
 
-              Vaizdo Pokalbiai - Vaizdo pokalbiai yra vienas is geriausiu irankiu
-              jusu arsenale. Is anskto nusistatyke taisykles (apie jas veliau). Dabar musu pasiulymai:
+              Tai viena efektyviausių priemonių ir vienas geriausių ginklų jūsų
+              darbo priemonių arsenale. Tačiau ir čia svarbu pasirinkti teisingai.
               <ul class="list-none mt-6">
                   <li class="py-2">
                     <div class="flex items-center">
                       <div>
-                         <a href="https://hangouts.google.com/">Google hangout</a>
+                         <a href="https://hangouts.google.com/">„Google Hangout“</a>
                          <h4 class="text-gray-600">
-                         </br>+ Nereikia papildomos programines irangos
-                         </br>+ Nemokama
-                         </br>- Vienu metu ekrane tik 4 zmonemis
-                         </br>- Su daug zmoniu - bardakelis :)
-                         </br>- Nera "Whiteboard funckijos"
-                         </br>- Irasymo funkcija mokama
+                         </br>+ Nereikia papildomos programinės įrangos
+                         </br>+ Nemokama paslaugaa
+                         </br>- Vienu metu ekrane galite matyti tik keturis žmones
+                         </br>- Gali būti nepatogu dirbti su didesne komanda
+                         </br>- Nėra galimybės gyvai dalintis pastabomis ir kt. („Whiteboard“)
+                         </br>- Mokama įrašymo funkcija
                         </h4>
                       </div>
                     </div>
@@ -85,15 +85,14 @@
                   <li class="py-2">
                     <div class="flex items-center">
                       <div>
-                         <a href="https://zoom.us/">Zoom</a>
+                         <a href="https://zoom.us/">„Zoom“</a>
                          <h4 class="text-gray-600">
-                         </br>+ Matosi visi zmones vienu metu ekrane
-                         </br>+ Whiteboard funkcija
-                         </br>+ Irasymo funkcija ieina i kaina
-                         </br>- Nuo 4 zmoniu susitikimo trukme 40min (dabar nuimtas sitas apribojimas, bet jis bus sugrazintas.
-                         Tai pripratus dabar, veliau gali tekti susimoketi :) )
-                         </br>- Mokama
-                         </br>- Reikia programeles ir programines irangos
+                         </br>+ Ekrane galite matyti visus prisijungusius žmones
+                         </br>+ Yra galimybė gyvai dalintis pastabomis ir kt. („Whiteboard“)
+                         </br>+ Į kainą įeina ir įrašymo funkcija
+                         </br>- Jei pokalbyje dalyvauja daugiau nei keturi žmonės, jis gali trukti iki 40 min.*
+                         </br>- Paslauga mokama
+                         </br>- Reikia programėlės ir programinės įrangos
                         </h4>
                       </div>
                     </div>
@@ -101,19 +100,17 @@
                    <li class="py-2">
                     <div class="flex items-center">
                       <div>
-                         <a href="https://teams.microsoft.com/">Microsoft Teams (buves Skype)</a>
+                         <a href="https://teams.microsoft.com/">„Microsoft Teams“ (anksčiau – „Skype“)</a>
                          <h4 class="text-gray-600">
-                         </br>+ Nemokama
-                         </br>+ Kartu ir pokalbiu kambarys
-                         </br>+ Whiteboard funckija
-                         </br>- Ne intuityvi
-                         </br>- Sudetinga naudotis, lyginant su kitais irankiais
+                         </br>+ Nemokama paslauga
+                         </br>+ Yra galimybė gyvai dalintis pastabomis ir kt. („Whiteboard“)
+                         </br>- Lyginant su kitais įrankiais, sudėtinga naudotis
                         </h4>
                       </div>
                     </div>
                   </li>
                 </ul>
-
+                         </br>*šis apribojimas laikinai neveikia.
             </div>
             <div class="w-full md:w-4/12 px-4 mr-auto ml-auto">
               <div
@@ -138,12 +135,13 @@
                     ></polygon>
                   </svg>
                   <h4 class="text-xl font-bold text-white">
-                    nepersistenkite!
+                    Nepersistenkite!
                   </h4>
                   <p class="text-md font-light mt-2 text-white">
-                    Visi sie irankiai gali atrodyti kaip igelbejimas. Taciau nepersistenkite.
-                    Nedarykite vaizdo susitikimu tik delto kad juos daryti. Pagalvokite,
-                    gal isamus el. laiskas ar zinute pokalbiu kambaryje yra tai jo jums reikia?
+                    Visi šie įrankiai gali atrodyti tarsi išsigelbėjimas, tačiau
+                    nerekomenduojama jais piktnaudžiauti. Kai kurias užduotis galima
+                    efektyviau atlikti ar skirti elektroniniu paštu ar privačia žinute.
+
                   </p>
                 </blockquote>
               </div>
@@ -186,14 +184,13 @@
                 <div
                   class="text-pink-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-pink-300"
                 >
-                  <i class="fas fa-rocket text-xl"></i>
+                  <i class="fas fa-comments text-xl"></i>
                 </div>
-                <h3 class="text-3xl font-semibold">Pokalbiu kambariai</h3>
+                <h3 class="text-3xl font-semibold">Pokalbių kambariai</h3>
                 <p class="mt-4 text-lg leading-relaxed text-gray-600">
-                  Be el. pasto vienas is geriausiu asichronines komunikacijos irankiu yra
-                  pokalbiu kambariai. Jie padeda ne tik islaityi rysi, bet ir isvengti
-                  "konteksto persijungimu" kai jus esate petraukiamas skambucio ar susitikimo.
-                  Kazkada reikia ir dirbti :)
+                  Be elektroninio pašto, viena iš geriausių nuotolinės komunikacijos priemonių yra
+                  pokalbių kambariai. Jie ne tik padeda išlaikyti ryšį, bet ir nereikalauja
+                  nuolatinio įsitraukimo.
                 </p>
                 <ul class="list-none mt-6">
                   <li class="py-2">
@@ -202,14 +199,12 @@
                   </li>
                   <li class="py-2">
                     <div class="flex items-center">
-                      <div>
-                         <a href="https://slack.com">Slack</a>
-                         (vienariskiskai musu pasirinkimas)
+                      <div>                         „Slack“
                          <h4 class="text-gray-600">
-                         </br>+ Nemokama iki 10000 zinuciu/per menesi
-                         </br>+ Super lengva naudotis
-                         </br>+ Kambariu principas
-                         </br>- Reikia programines irangos
+                         </br>+ Nemokamai galite išsiųsti iki 10 000 žinučių per mėnesį
+                         </br>+ Vienu metu galite bendrauti daugybėje skirtingų pokalbių
+                         </br>+ Lengva naudotis
+                         </br>- Reikia programinės įrangos
                         </h4>
                       </div>
                     </div>
@@ -217,13 +212,12 @@
                   <li class="py-2">
                    <div class="flex items-center">
                       <div>
-                         <a href="https://teams.microsoft.com">Microsoft Teams</a>
+                         <a href="https://teams.microsoft.com">„Microsoft Teams“</a>
                          <h4 class="text-gray-600">
-                         </br>+ Nemokama
-                         </br>+ Gan lengva naudotis
-                         </br>- Neintuityvus interfeisas
-                         </br>- Reikia programines irangos
-                         </br>- Nepatogus pokalbiu formatas (threads)
+                         </br>+ Nemokama paslauga
+                         </br>- Nepatogu naudotis
+                         </br>- Reikia programinės įrangos
+                         </br>- Nepatogus pokalbių formatas (threads)
                         </h4>
                       </div>
                     </div>
@@ -263,7 +257,7 @@
               <div
                 class="text-gray-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-gray-100"
               >
-                <i class="fas fa-user-friends text-xl"></i>
+                <i class="fas fa-camera-retro text-xl"></i>
               </div>
               <h3 class="text-3xl mb-2 font-semibold leading-normal">
                 Video pokalbis
@@ -272,9 +266,9 @@
                 class="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700"
               >
               </p>
-                Video pokalbio metu su zmonemis bendrauti yra daug sunkiau nes
-                atstumas sudaro tam tikra pchiholoini barjera.
-                Musu patarimai kaip elgtis pokalbio metu paciam ir su grupe:
+                Vaizdo pokalbio metu bendrauti su skirtingais žmonėmis yra sudėtingiau,
+                nes atstumas gali tapti psichologinio barjero atsiradimo priežastimi.
+                Pateikiama keletą patarimų, kaip bendrauti vaizdo pokalbio metu.
 
                 <ul class="list-none mt-6">
                   <li class="py-2">
@@ -287,7 +281,7 @@
                       </div>
                       <div>
                         <h4 class="text-gray-600">
-                          Visada naudokite kamera. Vaizdas padeda islaikyti gyvuma
+                          Visada naudokite vaizdo kamerą. Tai padės pokalbį išlaikyti dinamišką ir gyvą.
                         </h4>
                       </div>
                     </div>
@@ -301,7 +295,7 @@
                         ></span>
                       </div>
                       <div>
-                        <h4 class="text-gray-600">Pasitikite, kas yra jusu fone kai naudojate kamera</h4>
+                        <h4 class="text-gray-600">Prieš skambutį pasitikrinkite, ką pašnekovas matys už jūsų</h4>
                       </div>
                     </div>
                   </li>
@@ -314,8 +308,8 @@
                         ></span>
                       </div>
                       <div>
-                        <h4 class="text-gray-600">Jei nekalbate, visada "uzsitildykte" mikrofona.
-                          Niekas nenori girdeti kaip jus valgote, kvieciate katina, ar saukiate ant kaimyno.
+                        <h4 class="text-gray-600">Jei nekalbate, išjunkite ir mikrofoną.
+                          Niekas nenori girdėti, kaip valgote, kviečiate katiną ar šaukiate ant savo kaimyno.
                         </h4>
                       </div>
                     </div>
@@ -329,8 +323,8 @@
                         ></span>
                       </div>
                       <div>
-                        <h4 class="text-gray-600">Pradekite susitikima pranesdami ko tikites is sio susitikimo. susitikimo
-                          pabaigoje pasitikrinkite sekancius veiksmus, ir isiuskite susitikimo santraupa el. pastu visiems dalyviams.
+                        <h4 class="text-gray-600">Pradedant susitikimą praneškite, ko tikitės, o pabaigoje
+                          aptarkite kitus veiksmus ir išsiųskite susitikimo išvadas bei planą visiems jo dalyviams.
                         </h4>
                       </div>
                     </div>
@@ -344,8 +338,8 @@
                         ></span>
                       </div>
                       <div>
-                        <h4 class="text-gray-600">Jokiu budu nedarykite 2 dabu vienu metu. Jei darote kazka kita susitikimo metu,
-                          kol kazkas kabla - arba blogai planuoajate laika, arba jums nereikai buti siame susitikime.
+                        <h4 class="text-gray-600">Venkite atlikti du darbus vienu metu.
+                          Jei pokalbio metu atliekate kitas užduotis, tai ženklas, kad blogai planuojate savo laiką.
                         </h4>
                       </div>
                     </div>
@@ -359,8 +353,9 @@
                         ></span>
                       </div>
                       <div>
-                        <h4 class="text-gray-600">Svarbiausia: Neorganziuokite susitikimu del fakto kad reikia susitikimo.
-                          Pries pertrukdami kitu zmoniu diena - paklauskite saves - Kodel sitas susitikimas negali buti el. laiskas?
+                        <h4 class="text-gray-600">Prieš skirdami susitikimo laiką paklauskite savęs, kodėl šis susitikimas
+                          yra toks svarbus. Jei tai galima išspręsti naudojantis kitomis komunikacijos priemonėmis – taip ir padarykite.
+
                         </h4>
                       </div>
                     </div>
@@ -392,17 +387,17 @@
                     ></polygon>
                   </svg>
                   <h4 class="text-xl font-bold text-white">
-                    Pauzes, temperatura
-                  </h4>
+
+                  </h4>Pauzės ir pokalbio „temperatūra“
                   <p class="text-md font-light mt-2 text-white">
-                    Visada "pasimatuokite" susustikimo temepratura. Parasykite parodyti
-                    pirstais kaip jauciasi susitikimo dalyviai: "Nuo 1 iki 5 Kaip jauciates siandiena?"
-                    Paprasykite dalyviu atsistoti, paklauskite ar zmones suprato ka pasajate, ar nera klausimu.
+                    Visada patikrinkite savo pokalbio „temperatūrą". Paprašykite pirštų pagalba (nuo 1 iki 5)
+                    parodyti, kaip pašnekovas ar pokalbio dalyviai jaučiasi. Palaikykite pokalbį, klauskite, ar viskas suprantama
+                    ir nėra klausimų. Tačiau nedarykite to, ko nedarytumėte gyvo susitikimo metu.
+
                   </p>
                   <p class="text-md font-light mt-2 text-white">
-                    Darkite ilgesnes pauzes. Kalbant per video pokalbi, pokalbis nevyksta realiu laiku. Jei nesulaukiate
-                    atsakymo per 1 sekunde, palaukite 3. Zmogus intuitivyiai po 1 sekundes tylos nori kalbeti toliau. Nedarykite to!!!
-                    Sekite savo kalbejimo manieras.
+                    Vaizdo pokalbio metu darykite ilgesnes pauzes. Toks susitikimas nevyksta realiu laiku, todėl nesulaukus atsakymo per sekundę,
+                    palaukite kelias sekundes. Nekalbėkite greitai ir sekite savo kalbėjimo įpročius.
                   </p>
                 </blockquote>
               </div>
@@ -445,16 +440,16 @@
                 <div
                   class="text-pink-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-pink-300"
                 >
-                  <i class="fas fa-rocket text-xl"></i>
+                  <i class="fas fa-meh-rolling-eyes text-xl"></i>
                 </div>
                 <h3 class="text-3xl font-semibold">Emocijos</h3>
                 <p class="mt-4 text-lg leading-relaxed text-gray-600">
-                 Bendraujant per atstuma labai sunku suprasti kitu zmoniu emocijas.
-                 Jei gavote laiska, kuris atrodo negatyvus, ar net piktas - tai nebutinai yra taip.
-                 Pries darydami bet kokias isvadas paklauskite saves, ar tikrai taip yra?
-                 Pameginkite save pastatyti i kito zmogaus vieta.
+                 Toks bendravimas reikalauja dar geriau pažinti savo pašnekovų emocijas.
+                 Jei gautas laiškas atrodo negatyvus ar net piktas, nebūtinai taip yra.
+                 Prieš darydami išvadas paklauskite savęs, ar tikrai galite būti visiškai tikras.
+                 Įvertinkite visas aplinkybes ir pasitikslinkite.
 
-                 Tai ypac galioja jei dirbate ne gimtaja kalba ar su kitos tautybes, kulturos zmonemis.
+                 Tai ypač aktualu dirbant užsienio kalba ir bendradarbiaujant su kitų kultūrų žmonėmis.
                 </p>
               </div>
             </div>

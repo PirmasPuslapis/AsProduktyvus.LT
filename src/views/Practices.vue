@@ -46,17 +46,15 @@
               <div
                 class="text-gray-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-gray-100"
               >
-                <i class="fas fa-user-friends text-xl"></i>
+                <i class="fas fa-list text-xl"></i>
               </div>
               <h3 class="text-3xl mb-2 font-semibold leading-normal">
-                Tvarkarastis
+                Tvarkaraštis
               </h3>
               <p
                 class="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700"
               >
-                Nusistatykite tvarkarasti. Kada pradedate dirbi, baigiate, kada
-                petraukos. Nekontroliuojamas darbas is namu kartais pradeda itakoti
-                asmenine gyvenimo kokybe.
+                Nusistatykite tvarkaraštį, kada dirbsite, o kada ilsėsitės. Nekontroliuojamas darbas iš namų gali tapti kenksmingu gyvenimo veiksniu.
               </p>
             </div>
             <div class="w-full md:w-4/12 px-4 mr-auto ml-auto">
@@ -85,9 +83,7 @@
                     Laiko sekimas
                   </h4>
                   <p class="text-md font-light mt-2 text-white">
-                    Paprasiaucia darbo knyga ar internetinis kalendorius yra
-                    puikiausiai irankiai pasiekti normam rezultatui.
-                    Susideliokite visus susitikimus, darbus, petrauka
+                    Darbo knyga ar kalendorius asmeniniame kompiuteryje yra vienos paprasčiausių, tačiau kartu ir veiksmingiausių priemonių, norint planuoti savo darbo ir poilsio laiką.
                   </p>
                 </blockquote>
               </div>
@@ -130,14 +126,15 @@
                 <div
                   class="text-pink-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-pink-300"
                 >
-                  <i class="fas fa-rocket text-xl"></i>
+                  <i class="fas fa-thumbtack"></i>
                 </div>
-                <h3 class="text-3xl font-semibold">Taisykles su namiskiais</h3>
+                <h3 class="text-3xl font-semibold">Taisyklės namiškiams</h3>
                 <p class="mt-4 text-lg leading-relaxed text-gray-600">
-                  Yra didele tikimybe, kad namuose nebusite vienas. Nusistatykite
-                  namu taisykles. Kada pietaujate, vakarienaujate. Kada jus galima
-                  trugdyti, kada ne. Stenkites komunikuoti kai nenorite kad jus
-                  kalbintu, trugdytu.
+                  Jei gyvenate ne vienas, didelė tikimybė, kad savo darbotvarkę reikės
+                  aptarti ir su namiškiais. Taigi, prieš pradedant dirbti svarbu nustatyti
+                  savo namų taisykles. Paaiškinkite, kada jus galima trukdyti, kada valgysite
+                  ar turėsite pertraukas. Jei esate darbo namuose naujokas, trikdyti
+                  gali net ir mažiausios smulkmenos.
                 </p>
                 <ul class="list-none mt-6">
                   <li class="py-2">
@@ -150,7 +147,7 @@
                       </div>
                       <div>
                         <h4 class="text-gray-600">
-                          Kada valgome?
+                          Kokiu laiku valgysime ar bus pertrauka?
                         </h4>
                       </div>
                     </div>
@@ -164,7 +161,7 @@
                         ></span>
                       </div>
                       <div>
-                        <h4 class="text-gray-600">Netrugdyk manes kai as uzsidares/iusi duris</h4>
+                        <h4 class="text-gray-600">Netrukdyti manęs kai...</h4>
                       </div>
                     </div>
                   </li>
@@ -177,7 +174,7 @@
                         ></span>
                       </div>
                       <div>
-                        <h4 class="text-gray-600">Darba pradedu 9ta ir baigiu 6ta</h4>
+                        <h4 class="text-gray-600">Nustatyti tikslų darbo laiką</h4>
                       </div>
                     </div>
                   </li>
@@ -216,7 +213,7 @@
               <div
                 class="text-gray-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-gray-100"
               >
-                <i class="fas fa-user-friends text-xl"></i>
+                <i class="fas fa-desktop text-xl"></i>
               </div>
               <h3 class="text-3xl mb-2 font-semibold leading-normal">
                 Darbo aplinka
@@ -224,9 +221,13 @@
               <p
                 class="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700"
               >
-                No darbo aplinkos priklauso Jusu prodyktyvumo lygis. Venkite dirbti
-                ant sofos, lovos, sedmaisio. Pasidarytkite darbo kampa, kuriame galetumeme
-                atsijungti nuo namu ir pasinerti i darbo rezima.
+                Nuo darbo aplinkos priklauso ir jūsų produktyvumas. Venkite dirbti
+                patogiai įsitaisius ant sofos ar lovoje. Skirkite savo namuose vietą,
+                kurioje galėsite įsirengti poreikius atitinkančią erdvę darbui.
+                Specialistai rekomenduoja išsirinkti ypač patogius sėdėti darbo stalą
+                bei kėdę. Ne ką mažiau svarbus ir kompiuterio monitoriaus aukštis
+                bei įstrižainė.
+
               </p>
             </div>
             <div class="w-full md:w-4/12 px-4 mr-auto ml-auto">
@@ -255,9 +256,9 @@
                     Darbo vieta
                   </h4>
                   <p class="text-md font-light mt-2 text-white">
-                    Pasistatykite stala, darbo deke, jei turite papildoma monitoriu.
-                    Darbo vieta gali buti net garaze, rusyje, ar palepeje. Geriausiai,
-                    kad tai nebutu kitu naudojama erdve kaip virtuve ar bendras kambarys.
+                    Ją galite įsirengti net garaže, rūsyje ar palėpėje. Svarbiausia,
+                    kad darbo vieta būtų patogi dirbti. Lengviau susikaupti pavyks ir jei
+                    tai nebus bendra erdvė, kur dažnai lankysis namiškiai.
                   </p>
                 </blockquote>
               </div>
@@ -300,15 +301,17 @@
                 <div
                   class="text-pink-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-pink-300"
                 >
-                  <i class="fas fa-rocket text-xl"></i>
+                  <i class="fas fa-th-list text-xl"></i>
                 </div>
-                <h3 class="text-3xl font-semibold">Einamieji darbai</h3>
+                <h3 class="text-3xl font-semibold">Darbo planavimas</h3>
                 <p class="mt-4 text-lg leading-relaxed text-gray-600">
-                  Kiekviena diena, darbo dienos pradzioje susirasykite ka turite
-                  padaryti. Sarasa perziurekite kas diena, ir peklekite nepadarytus
-                  darbus i nauja diena su "+" simboliu. Daugiausiai "+" turintys darbai -
-                  Jusu prioritetas.
-                </p>
+                  Darbo dieną pradėkite nuo užduočių plano. Šį sąrašą peržiūrėkite
+                  kasdien ir vis dar neatliktus darbus perkelkite į kitos dienos sąrašą,
+                  užduotį pažymėdami „+“ simboliu. Daugiausiai tokių simbolių surinksiančios
+                  užduotys taps jūsų prioritetu.
+
+                </p>PARASYTI GRAZIAI PAVYZDYS
+
                 <ul class="list-none mt-6">
                   <li class="py-2">
                     <div class="flex items-center">
@@ -320,7 +323,7 @@
                       </div>
                       <div>
                         <h4 class="text-gray-600">
-                          Isiusti menesine ataskaita
+                          išsiųsti mėnesio ataskaitą
                         </h4>
                       </div>
                     </div>
@@ -334,7 +337,7 @@
                         ></span>
                       </div>
                       <div>
-                        <h4 class="text-gray-600">++ Pasidarysi tobulejimo plana</h4>
+                        <h4 class="text-gray-600">++ Sukurti savo tobulėjimo planą</h4>
                       </div>
                     </div>
                   </li>
@@ -347,7 +350,7 @@
                         ></span>
                       </div>
                       <div>
-                        <h4 class="text-gray-600">+ Pabaigti pridukto aprasyma</h4>
+                        <h4 class="text-gray-600">+ Baigti produkto aprašymą</h4>
                       </div>
                     </div>
                   </li>
