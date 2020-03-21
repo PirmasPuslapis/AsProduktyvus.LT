@@ -276,7 +276,7 @@
                       <div>
                         <span
                           class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="fas fa-fingerprint"></i
+                          ><i class="fas fa-paper-plane"></i
                         ></span>
                       </div>
                       <div>
@@ -291,7 +291,7 @@
                       <div>
                         <span
                           class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="fab fa-html5"></i
+                          ><i class="fas fa-paper-plane"></i
                         ></span>
                       </div>
                       <div>
@@ -304,7 +304,7 @@
                       <div>
                         <span
                           class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="far fa-paper-plane"></i
+                          ><i class="fas fa-paper-plane"></i
                         ></span>
                       </div>
                       <div>
@@ -319,7 +319,7 @@
                       <div>
                         <span
                           class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="far fa-paper-plane"></i
+                          ><i class="fas fa-paper-plane"></i
                         ></span>
                       </div>
                       <div>
@@ -334,7 +334,7 @@
                       <div>
                         <span
                           class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="far fa-paper-plane"></i
+                          ><i class="fas fa-paper-plane"></i
                         ></span>
                       </div>
                       <div>
@@ -349,7 +349,7 @@
                       <div>
                         <span
                           class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="far fa-paper-plane"></i
+                          ><i class="fas fa-paper-plane"></i
                         ></span>
                       </div>
                       <div>

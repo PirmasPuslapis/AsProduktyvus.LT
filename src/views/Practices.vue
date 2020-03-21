@@ -142,7 +142,7 @@
                       <div>
                         <span
                           class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="fas fa-fingerprint"></i
+                          ><i class="fas fa-paper-plane"></i
                         ></span>
                       </div>
                       <div>
@@ -157,7 +157,7 @@
                       <div>
                         <span
                           class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="fab fa-html5"></i
+                          ><i class="fas fa-paper-plane"></i
                         ></span>
                       </div>
                       <div>
@@ -170,7 +170,7 @@
                       <div>
                         <span
                           class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="far fa-paper-plane"></i
+                          ><i class="fas fa-paper-plane"></i
                         ></span>
                       </div>
                       <div>
@@ -309,8 +309,9 @@
                   kasdien ir vis dar neatliktus darbus perkelkite į kitos dienos sąrašą,
                   užduotį pažymėdami „+“ simboliu. Daugiausiai tokių simbolių surinksiančios
                   užduotys taps jūsų prioritetu.
-
-                </p>PARASYTI GRAZIAI PAVYZDYS
+                </p>
+                </br>
+                <span class="text-1xl leading-relaxed">Pavyzdys:</span>
 
                 <ul class="list-none mt-6">
                   <li class="py-2">
@@ -318,7 +319,7 @@
                       <div>
                         <span
                           class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="fas fa-fingerprint"></i
+                          ><i class="fas fa-paper-plane"></i
                         ></span>
                       </div>
                       <div>
@@ -333,7 +334,7 @@
                       <div>
                         <span
                           class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="fab fa-html5"></i
+                          ><i class="fas fa-paper-plane"></i
                         ></span>
                       </div>
                       <div>
@@ -346,7 +347,7 @@
                       <div>
                         <span
                           class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="far fa-paper-plane"></i
+                          ><i class="fas fa-paper-plane"></i
                         ></span>
                       </div>
                       <div>
