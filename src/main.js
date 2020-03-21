@@ -2,7 +2,9 @@ import Vue from 'vue';
 import Landing from './views/Landing.vue';
 import Practices from './views/Practices.vue';
 import Team from './views/Team.vue';
+import App from './App.vue'
 import VueAnalytics from 'vue-analytics'
+import VueRouter from 'vue-router'
 
 import "@fortawesome/fontawesome-free/css/all.min.css";
 
@@ -12,20 +14,31 @@ Vue.use(VueAnalytics, {
   id: 'UA-161526517-2'
 })
 
-const routes = {
-  '/landing': Landing,
-  '/practices': Practices,
-  '/team': Team,
-}
+Vue.use(VueRouter)
+const routes = [
+  {
+    path: '/',
+    name: 'landing',
+    component: Landing
+  },
+  {
+    path: '/practices',
+    name: 'practices',
+    component: Practices,
+  },
+  {
+    path: '/team',
+    name: 'team',
+    component: Team,
+  }
+]
+
+const router = new VueRouter({
+  mode: 'history',
+  routes
+})
 
 new Vue({
-  data: {
-    currentRoute: window.location.pathname
-  },
-  computed: {
-    ViewComponent() {
-      return routes[this.currentRoute] || Landing
-    }
-  },
-  render(h) { return h(this.ViewComponent) },
+  router,
+  render: h => h(App)
 }).$mount('#app')

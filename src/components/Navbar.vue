@@ -10,7 +10,7 @@
       >
         <a href=/
           class="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-no-wrap uppercase text-white"
-          >Pirmas Puslapis</a
+          >Pirmas</a
         >
         <a href=/practices
           class="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-no-wrap uppercase text-white"
