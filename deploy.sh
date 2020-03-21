@@ -5,6 +5,7 @@ set -e
 
 # build
 export NODE_ENV=production
+export DISTRIBUTION_DIRECTORY='dist'
 npm run build
 
 # navigate into the build output directory
