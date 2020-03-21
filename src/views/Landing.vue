@@ -23,7 +23,7 @@
                   AsProduktyvus.LT
                 </h1>
                 <p class="mt-4 text-lg text-gray-300">
-                  Aš produktyvus – patarimai, kaip dirbti iš namų prodyuktyviai!
+                  Patarimai dirbantiems iš namų!
                 </p>
               </div>
             </div>
@@ -56,7 +56,7 @@
             <div class="w-full lg:w-6/12 px-4">
               <h2 class="text-4xl font-semibold">Darbas iš namų</h2>
               <p class="text-lg leading-relaxed m-4 text-gray-600">
-                Darbas iš namu gali atrodyti tarsi siekiamybė. Tačiau norint tai daryti efektyviai, pravartu žinoti keletą patarimų.
+                Tai gali atrodyti tarsi siekiamybė. Tačiau norint būti efektyviam, pravartu žinoti keletą patarimų.
               </p>
             </div>
           </div>

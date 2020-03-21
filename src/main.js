@@ -11,10 +11,6 @@ import "@fortawesome/fontawesome-free/css/all.min.css";
 
 Vue.config.productionTip = false
 
-Vue.use(VueAnalytics, {
-  id: 'UA-161526517-2'
-})
-
 Vue.use(VueRouter)
 const routes = [
   {
@@ -41,6 +37,11 @@ const routes = [
 
 const router = new VueRouter({
   routes
+})
+
+Vue.use(VueAnalytics, {
+  router,
+  id: 'UA-161526517-2'
 })
 
 new Vue({
