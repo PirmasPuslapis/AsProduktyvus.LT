@@ -199,7 +199,8 @@
                   </li>
                   <li class="py-2">
                     <div class="flex items-center">
-                      <div>                         „Slack“
+                      <div>
+                        <a href="https://slack.com/">„Slack“</a>
                          <h4 class="text-gray-600">
                          </br>+ Nemokamai galite išsiųsti iki 10 000 žinučių per mėnesį
                          </br>+ Vienu metu galite bendrauti daugybėje skirtingų pokalbių
