@@ -64,7 +64,7 @@
             <div class="flex flex-wrap justify-center text-center mb-24">
               <div class="px-6">
                 <div class="pt-6 text-center">
-                  <a href="/practices">
+                  <a href="/#/practices">
                   <h5 class="text-xl font-bold"> Darbo rutina</h5>
                   </a>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
@@ -77,7 +77,7 @@
               </div>
                <div class="px-6">
                 <div class="pt-6 text-center">
-                  <a href="/team">
+                  <a href="/#/team">
                   <h5 class="text-xl font-bold">Darbas su grupe</h5>
                   </a>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
