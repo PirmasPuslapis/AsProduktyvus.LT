@@ -20,6 +20,11 @@
           class="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-no-wrap uppercase text-white"
           >Darbas grupėje</a
         >
+
+          <a href=/#/tools
+          class="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-no-wrap uppercase text-white"
+          >Įrankiai</a
+        >
         <a href=/#/fix
           class="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-no-wrap uppercase text-white"
           >Apie mus</a

@@ -21,11 +21,14 @@
               <div class="pr-12">
                 <p class="mt-4 text-lg text-gray-300">
                   Radai klaidų? </br>
-                  <a href="https://github.com/PirmasPuslapis/asprodyktyvus.lt/issues"> Pranešk čia </a>
+                  <b><a href="https://github.com/PirmasPuslapis/asprodyktyvus.lt/issues"> Pranešk čia </a></b>
                   </br>
                   </br>
                   Nori prisidėti? </br>
-                  <a href="https://github.com/PirmasPuslapis/asprodyktyvus.lt">Puslapio kodas - Github</a>
+                  <b><a href="https://github.com/PirmasPuslapis/asprodyktyvus.lt">Puslapio kodas - Github</a></b>
+                  </br>
+                  </br>
+                  Klausimai: info[eta]Judeikis.LT
                 </p>
               </div>
             </div>

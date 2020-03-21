@@ -2,6 +2,7 @@ import Vue from 'vue';
 import Landing from './views/Landing.vue';
 import Practices from './views/Practices.vue';
 import Team from './views/Team.vue';
+import Tools from './views/Tools.vue';
 import Fix from './views/Fix.vue';
 import App from './App.vue'
 import VueAnalytics from 'vue-analytics'
@@ -27,6 +28,11 @@ const routes = [
     path: '/team',
     name: 'team',
     component: Team,
+  },
+  {
+    path: '/tools',
+    name: 'tools',
+    component: Tools,
   },
   {
     path: '/fix',

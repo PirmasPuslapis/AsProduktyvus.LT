@@ -54,7 +54,8 @@
               <p
                 class="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700"
               >
-                Nusistatykite tvarkaraštį, kada dirbsite, o kada ilsėsitės. Nekontroliuojamas darbas iš namų gali tapti kenksmingu gyvenimo veiksniu.
+                Nusistatykite tvarkaraštį, kada dirbsite, o kada ilsėsitės.
+                Nekontroliuojamas darbas iš namų gali tapti kenksmingu gyvenimo veiksniu.
               </p>
             </div>
             <div class="w-full md:w-4/12 px-4 mr-auto ml-auto">
@@ -83,7 +84,9 @@
                     Laiko sekimas
                   </h4>
                   <p class="text-md font-light mt-2 text-white">
-                    Darbo knyga ar kalendorius asmeniniame kompiuteryje yra vienos paprasčiausių, tačiau kartu ir veiksmingiausių priemonių, norint planuoti savo darbo ir poilsio laiką.
+                    Darbo knyga ar kalendorius asmeniniame kompiuteryje yra vienos
+                    paprasčiausių, tačiau kartu ir veiksmingiausių priemonių, norint
+                    planuoti savo darbo ir poilsio laiką.
                   </p>
                 </blockquote>
               </div>
@@ -165,19 +168,6 @@
                       </div>
                     </div>
                   </li>
-                  <li class="py-2">
-                    <div class="flex items-center">
-                      <div>
-                        <span
-                          class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="fas fa-paper-plane"></i
-                        ></span>
-                      </div>
-                      <div>
-                        <h4 class="text-gray-600">Nustatyti tikslų darbo laiką</h4>
-                      </div>
-                    </div>
-                  </li>
                 </ul>
               </div>
             </div>
@@ -222,7 +212,7 @@
                 class="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700"
               >
                 Nuo darbo aplinkos priklauso ir jūsų produktyvumas. Venkite dirbti
-                patogiai įsitaisius ant sofos ar lovoje. Skirkite savo namuose vietą,
+                patogiai įsitaisius ant sofos ar lovoje. Raskite savo namuose vietą,
                 kurioje galėsite įsirengti poreikius atitinkančią erdvę darbui.
                 Specialistai rekomenduoja išsirinkti ypač patogius sėdėti darbo stalą
                 bei kėdę. Ne ką mažiau svarbus ir kompiuterio monitoriaus aukštis
@@ -258,7 +248,7 @@
                   <p class="text-md font-light mt-2 text-white">
                     Ją galite įsirengti net garaže, rūsyje ar palėpėje. Svarbiausia,
                     kad darbo vieta būtų patogi dirbti. Lengviau susikaupti pavyks ir jei
-                    tai nebus bendra erdvė, kur dažnai lankysis namiškiai.
+                    tai nebus bendra erdvė, kur dažnai lankosi namiškiai.
                   </p>
                 </blockquote>
               </div>
@@ -324,7 +314,7 @@
                       </div>
                       <div>
                         <h4 class="text-gray-600">
-                          išsiųsti mėnesio ataskaitą
+                          Išsiųsti mėnesio ataskaitą
                         </h4>
                       </div>
                     </div>

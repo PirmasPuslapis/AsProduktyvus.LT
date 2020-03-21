@@ -54,9 +54,10 @@
         <div class="container mx-auto px-4">
           <div class="flex flex-wrap justify-center text-center mb-24">
             <div class="w-full lg:w-6/12 px-4">
-              <h2 class="text-4xl font-semibold">Darbas iš namų</h2>
+              <h2 class="text-4xl font-semibold">Darbas nuotoliniu būdu</h2>
               <p class="text-lg leading-relaxed m-4 text-gray-600">
-                Tai gali atrodyti tarsi siekiamybė. Tačiau norint būti efektyviam, pravartu žinoti keletą patarimų.
+                Tai gali atrodyti tarsi siekiamybė. Tačiau norint būti efektyviam
+                dirbant namuose, pravartu žinoti keletą gudrybių.
               </p>
             </div>
           </div>
@@ -87,6 +88,17 @@
                   </p>
                 </div>
               </div>
+              <div class="px-6">
+                <div class="pt-6 text-center">
+                  <a href="/#/tools">
+                  <h5 class="text-xl font-bold">Įrankiai</h5>
+                  </a>
+                  <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
+                    Programos, įgalinančios nuotolinį darbą.
+                  </p>
+                </div>
+              </div>
+
             </div>
           </div>
         </div>
