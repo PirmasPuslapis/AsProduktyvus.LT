@@ -20,9 +20,7 @@
             <div class="w-full lg:w-6/10 px-4 ml-auto mr-auto text-center">
               <div class="pr-12">
                 <p class="mt-4 text-lg text-gray-300">
-                  Darba su kitais zmonemis grupeje per atstuma gali buti isukis.
-                  Dazniausiai nes nesame prate prie tokio bendravimo nuolatos.
-                  Musu patarimai kaip efektyviai dirbti su grupe, komanda per atstuma!
+                  Radai klaidų? Fix it: https://github.com/PirmasPuslapis/asprodyktyvus.lt
                 </p>
               </div>
             </div>
@@ -34,7 +32,7 @@
         >
           <svg
             class="absolute bottom-0 overflow-hidden"
-            xmlns="http://www.w3.org/2000/svg"
+            xmlns="https://www.w3.org/2000/svg"
             preserveAspectRatio="none"
             version="1.1"
             viewBox="0 0 2560 100"
@@ -127,7 +125,7 @@
                 <blockquote class="relative p-8 mb-4">
                   <svg
                     preserveAspectRatio="none"
-                    xmlns="http://www.w3.org/2000/svg"
+                    xmlns="https://www.w3.org/2000/svg"
                     viewBox="0 0 583 95"
                     class="absolute left-0 w-full block"
                     style="height: 95px; top: -94px;"
@@ -159,7 +157,7 @@
         >
           <svg
             class="absolute bottom-0 overflow-hidden"
-            xmlns="http://www.w3.org/2000/svg"
+            xmlns="https://www.w3.org/2000/svg"
             preserveAspectRatio="none"
             version="1.1"
             viewBox="0 0 2560 100"

@@ -34,7 +34,7 @@
         >
           <svg
             class="absolute bottom-0 overflow-hidden"
-            xmlns="http://www.w3.org/2000/svg"
+            xmlns="https://www.w3.org/2000/svg"
             preserveAspectRatio="none"
             version="1.1"
             viewBox="0 0 2560 100"
@@ -124,7 +124,7 @@
                 <blockquote class="relative p-8 mb-4">
                   <svg
                     preserveAspectRatio="none"
-                    xmlns="http://www.w3.org/2000/svg"
+                    xmlns="https://www.w3.org/2000/svg"
                     viewBox="0 0 583 95"
                     class="absolute left-0 w-full block"
                     style="height: 95px; top: -94px;"
@@ -157,7 +157,7 @@
         >
           <svg
             class="absolute bottom-0 overflow-hidden"
-            xmlns="http://www.w3.org/2000/svg"
+            xmlns="https://www.w3.org/2000/svg"
             preserveAspectRatio="none"
             version="1.1"
             viewBox="0 0 2560 100"
@@ -236,7 +236,7 @@
         >
           <svg
             class="absolute bottom-0 overflow-hidden"
-            xmlns="http://www.w3.org/2000/svg"
+            xmlns="https://www.w3.org/2000/svg"
             preserveAspectRatio="none"
             version="1.1"
             viewBox="0 0 2560 100"
@@ -376,7 +376,7 @@
                 <blockquote class="relative p-8 mb-4">
                   <svg
                     preserveAspectRatio="none"
-                    xmlns="http://www.w3.org/2000/svg"
+                    xmlns="https://www.w3.org/2000/svg"
                     viewBox="0 0 583 95"
                     class="absolute left-0 w-full block"
                     style="height: 95px; top: -94px;"
@@ -413,7 +413,7 @@
         >
           <svg
             class="absolute bottom-0 overflow-hidden"
-            xmlns="http://www.w3.org/2000/svg"
+            xmlns="https://www.w3.org/2000/svg"
             preserveAspectRatio="none"
             version="1.1"
             viewBox="0 0 2560 100"
